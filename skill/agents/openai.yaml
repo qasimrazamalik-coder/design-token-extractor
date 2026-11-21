@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Token Extractor"
+  short_description: "Extract reusable color, spacing, typography and radius tokens from authorized UI inventories an"
+  default_prompt: "Use @design-token-extractor on my authorized input and return a validated result."

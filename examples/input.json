@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "property": "color",
+      "value": "#0f766e",
+      "component": "button"
+    },
+    {
+      "property": "spacing",
+      "value": "8px",
+      "component": "card"
+    }
+  ]
+}
